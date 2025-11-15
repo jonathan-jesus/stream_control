@@ -1,6 +1,6 @@
-# 📡 Flutter vMix Remote Controller (Simplified Version)
+# 📡 Flutter vMix Remote Controller
 
-A **lightweight, open-source Flutter project** that connects to a **vMix instance** and provides a simple remote control interface.  
+A simplified version of **River Stream Control**. An application that connects to a **vMix instance** and provides a simple remote control interface.  
 It serves as an example of how to structure a Flutter app using:
 
 - **Feature-based architecture**
