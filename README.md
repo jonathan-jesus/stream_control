@@ -43,29 +43,24 @@ via Riverpod **StreamProviders**
 ## 📁 Project Structure
 
 lib/
+
 ├── main.dart
+
 ├── common/
+
 │ ├── constants.dart # shared constants + enums
+
 │ ├── validation.dart # small top-level validators
+
 │
+
 └── features/
+
 ├── home/ # startup + connection screens
+
 ├── panel/ # remote controller UI
+
 └── vmix/ (optional) # recommended extension: API/service logic
-
-**Why this structure?**  
-It keeps the app simple, modular, and easy for contributors to understand.
-
----
-
-## 🧩 Technologies Used
-
-- Flutter 3.x+
-- Riverpod (for state + stream management)
-- Material 3
-- vMix API (HTTP/XML + WebSocket — simplified
-
----
 
 ## 🧱 Architecture Overview
 
