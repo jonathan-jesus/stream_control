@@ -46,18 +46,12 @@ lib/
 
 ├── main.dart  
 ├── common/  
-│ ├── constants.dart # shared constants + enums
-
-│ ├── validation.dart # small top-level validators
-
-│
-
-└── features/
-
-├── home/ # startup + connection screens
-
-├── panel/ # remote controller UI
-
+│ ├── constants.dart # shared constants + enums  
+│ ├── validation.dart # small top-level validators  
+│  
+└── features/  
+├── home/ # startup + connection screens  
+├── panel/ # remote controller UI  
 └── vmix/ (optional) # recommended extension: API/service logic
 
 ## 🧱 Architecture Overview
