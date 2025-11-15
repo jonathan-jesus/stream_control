@@ -59,8 +59,9 @@ lib/
 The app follows a unidirectional data flow:
 
 vMix API → StreamService → Riverpod StreamProvider → UI Widgets
-↑
-Actions (CUT, FADE, inputs, etc)
+
+> > ↑
+> > Actions (CUT, FADE, inputs, etc)
 
 - Home feature handles connection setup
 - Panel feature displays live vMix updates
