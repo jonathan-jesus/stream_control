@@ -44,10 +44,8 @@ via Riverpod **StreamProviders**
 
 lib/
 
-├── main.dart
-
-├── common/
-
+├── main.dart  
+├── common/  
 │ ├── constants.dart # shared constants + enums
 
 │ ├── validation.dart # small top-level validators
