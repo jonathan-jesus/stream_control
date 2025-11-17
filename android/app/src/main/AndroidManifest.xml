@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="river_stream_control"
+        android:label="stream_control"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,4 +1,4 @@
-package com.example.river_stream_control
+package com.example.stream_control
 
 import io.flutter.embedding.android.FlutterActivity
 
