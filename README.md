@@ -12,6 +12,10 @@ It serves both as a real working tool and as a reference architecture for apps t
 - Parsing structured data (XML → model)
 - Persistent, user-customizable settings
 
+| ![Control panel connected to a vMix instance](https://github.com/jonathan-jesus/stream_control/blob/main/docs/assets/panel-landscape.gif) |
+|:--:|
+| *Control panel connected to a vMix instance with 87 inputs* |
+
 ## 🚀 Features
 
 ### ✔ Connect to a vMix instance
